@@ -20,4 +20,3 @@ while True:
         PriceList.append(menuPrice)
 
 showBill()
-
